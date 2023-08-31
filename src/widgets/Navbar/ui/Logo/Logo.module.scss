@@ -1,0 +1,11 @@
+.AppName {
+  display: flex;
+  align-items: center;
+  min-width: calc(var(--sidebar-width) - 52px);
+  font-size: 18px;
+  line-height: 18px;
+
+  /* span {
+    display: block;
+  } */
+}

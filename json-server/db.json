@@ -1,0 +1,75 @@
+{
+  "profile": [
+    {
+      "id": "1",
+      "firstname": "Ivan",
+      "lastname": "Ivanov",
+      "age": 30,
+      "currency": "EUR",
+      "country": "Belarus",
+      "city": "Minsk",
+      "username": "admin",
+      "avatar": "https://cspromogame.ru//storage/upload_images/avatars/3419.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin@test.com",
+      "password": "1234",
+      "role": "ADMIN",
+      "avatar": "https://cspromogame.ru//storage/upload_images/avatars/3419.jpg"
+    },
+    {
+      "id": "2",
+      "username": "manager@test.com",
+      "password": "1234",
+      "role": "MANAGER",
+      "avatar": "https://pixelbox.ru/wp-content/uploads/2021/11/avatar-whatsapp-pixelbox.ru-36.jpg"
+    },
+    {
+      "id": "3",
+      "username": "Косухин",
+      "password": "1",
+      "role": "ADMIN",
+      "avatar": "https://pixelbox.ru/wp-content/uploads/2021/11/avatar-whatsapp-pixelbox.ru-36.jpg",
+      "firstname": "Алексей",
+      "lastname": "Косухин",
+      "middlename": "Владимирович",
+      "email": "kosuhin@gmail.com",
+      "position": "Менеджер по продажам",
+      "department": "Отдел продаж",
+      "organization": "Общество с ограниченной ответственностью \"Парусник-Белгород\""
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "userId": 3,
+      "name": "Согласуйте: Решение о проведении инвентаризиции №29 от 03.02.2023",
+      "deadline": "16.02.2023 15:00",
+      "type": "ApprovalAssignment"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "name": "Подпишите: Решение о проведении инвентаризиции №30 от 04.02.2023",
+      "deadline": "17.02.2023 15:00",
+      "type": "ApprovalSimpleAssignment"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "name": "Ознакомьтесь: Решение о проведении инвентаризиции №31 от 05.02.2023",
+      "deadline": "19.02.2023 15:00",
+      "type": "ViewedAssignment"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "Согласуйте: Решение о проведении инвентаризиции №33 от 07.02.2023",
+      "deadline": "21.02.2023 15:00",
+      "type": "ApprovalAssignment"
+    }
+  ]
+}

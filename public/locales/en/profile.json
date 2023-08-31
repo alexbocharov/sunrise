@@ -1,0 +1,19 @@
+{
+  "profile": "Profile",
+  "edit": "Edit",
+  "firstname": "Name",
+  "lastname": "Lastname",
+  "username": "User name",
+  "error": "Error",
+  "reload-page": "Reload page",
+  "cancel": "Cancel",
+  "save": "Save",
+  "age": "Age",
+  "city": "City",
+  "avatar": "Avatar",
+  "server_error": "Server error",
+  "incorrect_user_data": "First and last names are required",
+  "incorrect_age": "Age is required",
+  "incorrect_country": "Country is required",
+  "no_data": "No data"
+}

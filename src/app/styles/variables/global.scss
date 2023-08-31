@@ -1,0 +1,28 @@
+:root {
+  --font-family-main: "Roboto", "Helvetica", "Arial", "sans-serif";
+  --font-size-m: 16px;
+  --font-line-m: 24px;
+  --font-m: var(--font-size-m) / var(--font-line-m) var(--font-family-main);
+  --font-size-l: 24px;
+  --font-line-l: 32px;
+  --font-l: var(--font-size-l) / var(--font-line-l) var(--font-family-main);
+  --font-size-xl: 32px;
+  --font-line-xl: 40px;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
+
+  /* size */
+  --navbar-height: 80px;
+  --sidebar-width: 240px;
+  --sidebar-width-collapsed: 72px;
+
+  /* z-index */
+  --modal-z-index: 10;
+
+  /* color */
+  --overlay-color: rgba(0 0 0 / 35%);
+  --red-light: rgb(255 0 0);
+  --red-dark: rgb(184 0 0);
+  --notify-background: #fac6b6;
+}
+
+/* --font-family-main: "Segoe UI", -apple-system, "BlinkMacSystemFont", "Roboto", "Helvetica", "Arial", "sans-serif"; */

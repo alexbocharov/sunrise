@@ -1,0 +1,21 @@
+.app_light_theme {
+  --bg-color: rgb(212 226 230);
+  --bg-color-inverted: rgb(24 104 131);
+
+  /* --bg-color: rgb(255 255 255);
+  --bg-color-inverted: #ecedf0; */
+  --primary-color: rgb(21 21 21);
+  --secondary-color: rgb(80 84 80);
+  --primary-color-inverted: rgb(37 148 37);
+  --secondary-color-inverted: rgb(22 190 22);
+
+  /* skeleton */
+  --skeleton-color: #fff;
+  --skeleton-shadow: rgb(0 0 0 / 20%);
+
+  /* code */
+  --code-bg: #fff;
+
+  /* card */
+  --card-bg: rgb(189 222 231);
+}

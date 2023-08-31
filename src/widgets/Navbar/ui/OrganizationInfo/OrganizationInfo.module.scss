@@ -1,0 +1,12 @@
+.OrganizationInfo {
+  font-size: 16px;
+  line-height: 18px;
+
+  span {
+    text-align: center;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+}
